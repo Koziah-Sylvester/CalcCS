@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a6RweaJ0u6lPFfkKvvUxSMHanA2pBdW0DHuTEp5TX1QC+1Gcxo47T2Su0xECDJXzmmR0YlfAEETkXfPutBotGQ==",
+  "dgSpecHash": "3K/8uJGQmBV4aiJCQty4bOS4XGUBnN4suvX0GSdta4Czgqo9wrCSEJQqurSJqDSdwU8r1BUJD7IkeLGIUzl2QA==",
   "success": true,
-  "projectFilePath": "E:\\Repositories\\CalcCS\\CalcCS.csproj",
+  "projectFilePath": "e:\\Repositories\\CalcCS\\CalcCS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
