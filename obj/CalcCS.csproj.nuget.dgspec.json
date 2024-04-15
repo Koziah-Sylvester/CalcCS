@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Repositories\\CalcCS\\CalcCS.csproj": {}
+    "E:\\Repositories\\CalcCS\\CalcCS.csproj": {}
   },
   "projects": {
-    "e:\\Repositories\\CalcCS\\CalcCS.csproj": {
+    "E:\\Repositories\\CalcCS\\CalcCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Repositories\\CalcCS\\CalcCS.csproj",
+        "projectUniqueName": "E:\\Repositories\\CalcCS\\CalcCS.csproj",
         "projectName": "CalcCS",
-        "projectPath": "e:\\Repositories\\CalcCS\\CalcCS.csproj",
+        "projectPath": "E:\\Repositories\\CalcCS\\CalcCS.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "e:\\Repositories\\CalcCS\\obj\\",
+        "outputPath": "E:\\Repositories\\CalcCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
