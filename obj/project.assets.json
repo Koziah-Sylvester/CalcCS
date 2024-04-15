@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/skoziah/.nuget/packages/": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skoziah/CalcCS/CalcCS.csproj",
+      "projectUniqueName": "E:\\Repositories\\CalcCS\\CalcCS.csproj",
       "projectName": "CalcCS",
-      "projectPath": "/home/skoziah/CalcCS/CalcCS.csproj",
-      "packagesPath": "/home/skoziah/.nuget/packages/",
-      "outputPath": "/home/skoziah/CalcCS/obj/",
+      "projectPath": "E:\\Repositories\\CalcCS\\CalcCS.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\Repositories\\CalcCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/skoziah/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

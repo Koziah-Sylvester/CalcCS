@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vy4IQIIxEsyw39/SgtzrYhyO+v6nFCbEwvcJXPYHfVIBi1LBe1HN8HSr3cjUGdMCX40/4yE09XMnj6ikCWBE0Q==",
+  "dgSpecHash": "5IYOiHb1NYpYiSFyp1QzUoIdxCEURsgAvQlihbK/DZ6gk+7qjsyZQIKi5tx7kiPoCaaplZqT+OJfKhZo4Rya5Q==",
   "success": true,
-  "projectFilePath": "/home/skoziah/CalcCS/CalcCS.csproj",
+  "projectFilePath": "e:\\Repositories\\CalcCS\\CalcCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
